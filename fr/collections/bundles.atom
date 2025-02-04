@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://feastables.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://feastables.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://feastables.com/fr/collections/bundles.atom"/>
+  <title>feastables</title>
+  <updated>2024-12-06T12:54:20-08:00</updated>
+  <author>
+    <name>feastables</name>
+  </author>
+  <entry>
+    <id>https://feastables.com/fr/products/14893946077553</id>
+    <published>2024-12-06T12:54:20-08:00</published>
+    <updated>2024-12-06T12:54:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://feastables.com/fr/products/beast-games-box"/>
+    <title>Beast Games Box</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/6060/2784/files/BeastGamesBox.png?v=1733518794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Feastables<br>
+        <strong>Type : </strong>Bundle<br>
+        <strong>Prix : </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span>Beast Games Chocolate Bar Variety Box: Enjoy a delightful assortment of MrBeast's candy bars in every box. Each pack contains 4 bars of Milk Chocolate, 4 bars of Milk Crunch, and 4 bars of Peanut Butter Milk Chocolate.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2024</s:tag>
+    <s:tag>hide reviews</s:tag>
+    <s:tag>limited</s:tag>
+    <s:tag>max:0</s:tag>
+    <s:tag>no purchase</s:tag>
+    <s:variant>
+      <id>https://feastables.com/fr/products/14893946077553</id>
+      <title>Standard Size - 12 Pack</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://feastables.com/fr/products/14273860272288</id>
+    <published>2024-08-26T11:28:47-07:00</published>
+    <updated>2024-08-26T11:28:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://feastables.com/fr/products/value-pack"/>
+    <title>Value Pack</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/6060/2784/files/ValuePack.png?v=1721672593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Feastables<br>
+        <strong>Type : </strong>Bundle<br>
+        <strong>Prix : </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feastables Chocolate Assortment. Value Pack (35g 24ct) includes:</p>
+<ul>
+<li>9x Milk Chocolate</li>
+<li>9x Peanut Butter</li>
+<li>6x Milk Crunch<meta charset="utf-8">
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2024</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>count-24</s:tag>
+    <s:tag>max:0</s:tag>
+    <s:tag>no purchase</s:tag>
+    <s:tag>pack</s:tag>
+    <s:tag>PSS</s:tag>
+    <s:variant>
+      <id>https://feastables.com/fr/products/14273860272288</id>
+      <title>24 Pack</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>USCL2301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://feastables.com/fr/products/13242785136800</id>
+    <published>2024-05-13T17:33:41-07:00</published>
+    <updated>2024-05-13T17:33:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://feastables.com/fr/products/sampler-pack"/>
+    <title>Sampler Pack</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/6060/2784/files/SamplerPack_2x_4b677e6c-1a70-4407-8687-adbdc5431b15.png?v=1731697145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Feastables<br>
+        <strong>Type : </strong>Bundle<br>
+        <strong>Prix : </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sampler Pack 60g (King size) 4ct includes:</p>
+<ul>
+<li>Milk</li>
+<li>Milk Crunch</li>
+<li>Peanut Butter</li>
+<li>Almond</li>
+</ul>
+<p>Comes in a bundle of 2!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2024</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>count-8</s:tag>
+    <s:tag>max:3</s:tag>
+    <s:tag>pack</s:tag>
+    <s:tag>PSS</s:tag>
+    <s:variant>
+      <id>https://feastables.com/fr/products/13242785136800</id>
+      <title>King Size — 2× 4 Pack</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>USCL1500-2X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://feastables.com/fr/products/13450866196640</id>
+    <published>2024-05-13T17:15:28-07:00</published>
+    <updated>2024-05-13T17:15:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://feastables.com/fr/products/peanut-butter-pack"/>
+    <title>Peanut Butter Pack</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/6060/2784/files/PeanutButter_35g_5ct_2x_d1f3ad09-b276-430f-9519-bc830077cafd.png?v=1731697205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Feastables<br>
+        <strong>Type : </strong>Bundle<br>
+        <strong>Prix : </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Peanut Butter 35g (Standard size) 5ct pack. Comes in a bundle of 2!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2024</s:tag>
+    <s:tag>bundle</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>count-10</s:tag>
+    <s:tag>max:3</s:tag>
+    <s:tag>PSS</s:tag>
+    <s:variant>
+      <id>https://feastables.com/fr/products/13450866196640</id>
+      <title>Standard Size - 2× 5 Pack</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>USCL2107-2X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://feastables.com/fr/products/13242907525280</id>
+    <published>2024-05-13T17:02:17-07:00</published>
+    <updated>2024-05-13T17:02:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://feastables.com/fr/products/milk-chocolate-pack"/>
+    <title>Milk Chocolate Pack</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>Feastables</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0551/6060/2784/files/MilkChocolate_35g_5ct_2x_1dd90a89-8c1f-4a3d-bd7e-8627a0b521f7.png?v=1731697434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>Feastables<br>
+        <strong>Type : </strong>Bundle<br>
+        <strong>Prix : </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Milk Chocolate 35g <meta charset="utf-8">(Standard size) 5ct pack. Comes in a bundle of 2!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2024</s:tag>
+    <s:tag>bundle</s:tag>
+    <s:tag>chocolate</s:tag>
+    <s:tag>count-10</s:tag>
+    <s:tag>max:3</s:tag>
+    <s:tag>PSS</s:tag>
+    <s:variant>
+      <id>https://feastables.com/fr/products/13242907525280</id>
+      <title>Standard Size - 2× 5 Pack</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>USCL2103-2X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
